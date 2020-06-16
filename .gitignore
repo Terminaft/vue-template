@@ -1,0 +1,9 @@
+node_modules
+build
+releases
+secrets.*.js
+.idea
+npm-debug.log
+package-lock.json
+yarn.lock
+.DS_Store
